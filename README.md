@@ -10,8 +10,10 @@
 ## About Laravel
 
 Command to inicialize the web site: php -S 127.0.0.1:8000 -t public
-email: test@example.com
-password: contra123
+
+Email and Password for the login
+- Email: test@example.com
+- Password: contra123
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
